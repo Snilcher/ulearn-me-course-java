@@ -17,5 +17,6 @@ public class Task01Main {
     public static int checkSumOfStream(InputStream inputStream) throws IOException {
         // your implementation here
         return 0;
+
     }
 }
